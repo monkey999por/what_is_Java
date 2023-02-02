@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<GlobalVariables>
+    <Dataset id="dataset_dummy_A">
+        <ColumnInfo>
+            <Column id="col_dummy_A" size="256" type="STRING"/>
+            <Column id="col_dummy_A" size="256" type="STRING"/>
+        </ColumnInfo>
+    </Dataset>
+    <Dataset id="dataset_dummy_B">
+        <ColumnInfo>
+            <Column id="col_dummy_B" size="256" type="STRING"/>
+            <Column id="col_dummy_B" size="256" type="STRING"/>
+        </ColumnInfo>
+    </Dataset>
+    <Dataset id="dataset_A">
+        <ColumnInfo>
+            <Column id="col_A1" size="256" type="STRING"/>
+            <Column id="col_A2" size="256" type="STRING"/>
+            <Column id="col_A3" size="256" type="STRING"/>
+            <Column id="col_A4" size="256" type="STRING"/>
+            <Column id="col_A5" size="256" type="STRING"/>
+            <Column id="col_A6" size="256" type="STRING"/>
+            <Column id="col_A7" size="256" type="STRING"/>
+        </ColumnInfo>
+        <Rows>
+            <Row>
+                <Col id="col_A1">value_A_1_1</Col>
+                <Col id="col_A2">value_A_1_2</Col>
+                <Col id="col_A3">value_A_1_3</Col>
+                <Col id="col_A4">value_A_1_4</Col>
+                <Col id="col_A5">value_A_1_5</Col>
+                <Col id="col_A5">value_A_1_6</Col>
+            </Row>
+            <Row>
+                <Col id="col_A1">value_A_2_1</Col>
+                <Col id="col_A2">value_A_2_2</Col>
+            </Row>
+            <Row>
+                <Col id="col_A1">value_A_3_1</Col>
+                <Col id="col_A2">value_A_3_2</Col>
+                <Col id="col_A3">value_A_3_3</Col>
+                <Col id="col_A4">value_A_3_4</Col>
+                <Col id="col_A5">value_A_3_5</Col>
+            </Row>
+            <Row>
+                <Col id="col_A1">value_A_4_1</Col>
+                <Col id="col_A2">value_A_4_2</Col>
+                <Col id="col_A3">value_A_4_3</Col>
+                <Col id="col_A4">value_A_4_4</Col>
+                <Col id="col_A5">value_A_4_5</Col>
+                <Col id="col_A5">value_A_4_6</Col>
+                <Col id="col_A5">value_A_4_7</Col>
+            </Row>
+        </Rows>
+    </Dataset>
+    <Dataset id="dataset_B">
+        <ColumnInfo>
+            <Column id="col_B1" size="256" type="STRING"/>
+            <Column id="col_B2" size="256" type="STRING"/>
+            <Column id="col_B3" size="256" type="STRING"/>
+            <Column id="col_B4" size="256" type="STRING"/>
+            <Column id="col_B5" size="256" type="STRING"/>
+            <Column id="col_B6" size="256" type="STRING"/>
+            <Column id="col_B7" size="256" type="STRING"/>
+            <Column id="col_B8" size="256" type="STRING"/>
+            <Column id="col_B9" size="256" type="STRING"/>
+            <Column id="col_B10" size="256" type="STRING"/>
+        </ColumnInfo>
+        <Rows>
+            <Row>
+                <Col id="col_B1">value_B_1_1</Col>
+                <Col id="col_B2">value_B_1_2</Col>
+                <Col id="col_B3">value_B_1_3</Col>
+                <Col id="col_B4">value_B_1_4</Col>
+                <Col id="col_B5">value_B_1_5</Col>
+                <Col id="col_B6">value_B_1_6</Col>
+                <Col id="col_B7">value_B_1_6</Col>
+                <Col id="col_B8">value_B_1_6</Col>
+                <Col id="col_B9">value_B_1_6</Col>
+                <Col id="col_B10">value_B_1_6</Col>
+            </Row>
+        </Rows>
+    </Dataset>
+    <Dataset id="dummy_dataset_A">
+        <ColumnInfo>
+            <Column id="dummy_col_A1" size="256" type="STRING"/>
+            <Column id="dummy_col_A2" size="256" type="STRING"/>
+            <Column id="dummy_col_A3" size="256" type="STRING"/>
+            <Column id="dummy_col_A4" size="256" type="STRING"/>
+            <Column id="dummy_col_A5" size="256" type="STRING"/>
+            <Column id="dummy_col_A6" size="256" type="STRING"/>
+            <Column id="dummy_col_A7" size="256" type="STRING"/>
+        </ColumnInfo>
+        <Rows>
+            <Row>
+                <Col id="dummy_col_A1">dum_value_A_1_1</Col>
+                <Col id="dummy_col_A2">dum_value_A_1_2</Col>
+                <Col id="dummy_col_A3">dum_value_A_1_3</Col>
+                <Col id="dummy_col_A4">dum_value_A_1_4</Col>
+                <Col id="dummy_col_A5">dum_value_A_1_5</Col>
+                <Col id="dummy_col_A5">dum_value_A_1_6</Col>
+            </Row>
+            <Row>
+                <Col id="dummy_col_A1">dum_value_A_2_1</Col>
+                <Col id="dummy_col_A2">dum_value_A_2_2</Col>
+            </Row>
+            <Row>
+                <Col id="dummy_col_A1">dum_value_A_3_1</Col>
+                <Col id="dummy_col_A2">dum_value_A_3_2</Col>
+                <Col id="dummy_col_A3">dum_value_A_3_3</Col>
+                <Col id="dummy_col_A4">dum_value_A_3_4</Col>
+                <Col id="dummy_col_A5">dum_value_A_3_5</Col>
+            </Row>
+            <Row>
+                <Col id="dummy_col_A1">dum_value_A_4_1</Col>
+                <Col id="dummy_col_A2">dum_value_A_4_2</Col>
+                <Col id="dummy_col_A3">dum_value_A_4_3</Col>
+                <Col id="dummy_col_A4">dum_value_A_4_4</Col>
+                <Col id="dummy_col_A5">dum_value_A_4_5</Col>
+                <Col id="dummy_col_A5">dum_value_A_4_6</Col>
+                <Col id="dummy_col_A5">dum_value_A_4_7</Col>
+            </Row>
+        </Rows>
+    </Dataset>
+    <Dataset id="dummy_dataset_B">
+        <ColumnInfo>
+            <Column id="dummy_col_B1" size="256" type="STRING"/>
+            <Column id="dummy_col_B2" size="256" type="STRING"/>
+            <Column id="dummy_col_B3" size="256" type="STRING"/>
+            <Column id="dummy_col_B4" size="256" type="STRING"/>
+            <Column id="dummy_col_B5" size="256" type="STRING"/>
+            <Column id="dummy_col_B6" size="256" type="STRING"/>
+            <Column id="dummy_col_B7" size="256" type="STRING"/>
+            <Column id="dummy_col_B8" size="256" type="STRING"/>
+            <Column id="dummy_col_B9" size="256" type="STRING"/>
+            <Column id="dummy_col_B10" size="256" type="STRING"/>
+        </ColumnInfo>
+        <Rows>
+            <Row>
+                <Col id="dummy_col_B1">dum_value_B_1_1</Col>
+                <Col id="dummy_col_B2">dum_value_B_1_2</Col>
+                <Col id="dummy_col_B3">dum_value_B_1_3</Col>
+                <Col id="dummy_col_B4">dum_value_B_1_4</Col>
+                <Col id="dummy_col_B5">dum_value_B_1_5</Col>
+                <Col id="dummy_col_B6">dum_value_B_1_6</Col>
+                <Col id="dummy_col_B7">dum_value_B_1_6</Col>
+                <Col id="dummy_col_B8">dum_value_B_1_6</Col>
+                <Col id="dummy_col_B9">dum_value_B_1_6</Col>
+                <Col id="dummy_col_B10">dum_value_B_1_6</Col>
+            </Row>
+        </Rows>
+    </Dataset>
+    <Variable/>
+</GlobalVariables>

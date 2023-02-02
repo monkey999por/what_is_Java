@@ -70,6 +70,7 @@ public class FileLogic {
             try {
                 writer.close();
             } catch (Exception e1) {
+                System.out.println();
             }
         }
     }
